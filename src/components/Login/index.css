@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.login-bg {
+  background: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-card {
+  height: 400px;
+  width: 500px;
+
+  background: linear-gradient(#2b2c49, #bfb9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: center;
+  border-radius: 10px;
+  font-family: 'Roboto';
+}
